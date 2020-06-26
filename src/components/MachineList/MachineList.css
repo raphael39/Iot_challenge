@@ -1,0 +1,10 @@
+.MachineListdiv {
+    width: 27%;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.SingleMachineBox {
+    border-bottom: 1px solid #000;
+    padding-left: 5vw;
+}
